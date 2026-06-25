@@ -82,7 +82,7 @@ Regex-Text-Extractor/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/gayatori-san/unprof_pyai_5
 ```
 
 ### 2️⃣ Navigate to the Project Folder
